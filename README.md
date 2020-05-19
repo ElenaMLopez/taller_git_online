@@ -11,7 +11,7 @@ Antes de iniciar el taller debes tener instalado Git en el ordenador. Puedes seg
 
 Las slides de la presentación las tenéis en el siguiente vínculo:
 
-- [Slides.com: Hello Git!!!](https://slides.com/elenam-lopez/no-liarla-parda-con-git-x-2)
+- [Slides.com: Hello Git!!!](https://slides.com/elenam-lopez/no-liarla-parda-con-git-x-6b204c)
 
 Los archivos que se van a usar en la práctica que muestro en el taller están en este tercer vínculo.
 
