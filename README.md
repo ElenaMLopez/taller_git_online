@@ -18,6 +18,8 @@ Los archivos que se van a usar en la práctica que muestro en el taller están e
 - [Banana Oh la la!](https://github.com/ElenaMLopez/Banana_oh_la_la)
 
 
+## Ejercicios:
+
 **Ejercicio 1:**
 
 Como asistente al taller online puedes añadir tu nombre a la siguiente sección. Para hacerlo debes lanzar un PR que edite este archivo y agregue tu nombre. Recuerda editar TAN SOLO esa sección. De lo contrario el PR no será aceptado. Los cirterios de aceptación del PR son:
