@@ -32,7 +32,7 @@ Como asistente al taller online puedes añadir tu nombre a la siguiente sección
 
 **Ejercicio 2:**
 
-Realizar la práctica con el repositorio ['Banana_oh_la_la'](https://github.com/ElenaMLopez/Banana_oh_la_la/tree/master). Recuerda que tienes que trabajar sobre un *fork* de este repositorio en tu perfil o el de un/a compañer@ y no sobre el repositorio de mi perfil, porque no acepto PR en éste. La información de la práctica la tienes en el repositorio.
+Realizar la práctica con el repositorio ['Banana_oh_la_la'](https://github.com/ElenaMLopez/Banana_oh_la_la/tree/master). Recuerda que tienes que trabajar sobre un *fork* de este repositorio en tu perfil o el de un/a compañer@ y no sobre el repositorio de mi perfil, porque no acepto PR en éste. La información de la práctica la tienes en el repositorio. En este repositorio hay dos issues, una para Compi1 y otra para Compi2, sigue los pasos.
 
 
 ### Lista de participantes:
