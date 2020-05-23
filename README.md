@@ -40,3 +40,4 @@ Realizar la práctica con el repositorio ['Banana_oh_la_la'](https://github.com/
 ### Lista de participantes:
 
 - [Elena M. López](https://github.com/ElenaMLopez)
+- [Eva López Merino] (https://github.com/evalopezm)
