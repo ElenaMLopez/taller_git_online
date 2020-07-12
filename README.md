@@ -17,6 +17,12 @@ Los archivos que se van a usar en la práctica que muestro en el taller están e
 
 - [Banana Oh la la!](https://github.com/ElenaMLopez/Banana_oh_la_la)
 
+---
+
+### Video:
+[Video en youtube del taller](https://www.youtube.com/watch?v=cLS9uXZQ51o&t=8081s). Muchísimas gracias a [Hackmadird27%](https://hackmadrid.org/) por darme la oportunidad y realizar la grabación y subida a youtube del vídeo.
+
+
 
 ## Ejercicios:
 
