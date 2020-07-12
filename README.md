@@ -22,6 +22,7 @@ Los archivos que se van a usar en la práctica que muestro en el taller están e
 ### Video:
 [Video en youtube del taller](https://www.youtube.com/watch?v=cLS9uXZQ51o&t=8081s). Muchísimas gracias a [Hackmadird27%](https://hackmadrid.org/) por darme la oportunidad y realizar la grabación y subida a youtube del vídeo.
 
+![taller_git](https://user-images.githubusercontent.com/27022503/87249823-af4aad00-c461-11ea-941d-7a259b824fac.png)
 
 
 ## Ejercicios:
